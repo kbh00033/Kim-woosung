@@ -25,7 +25,7 @@ URL: https://kim-woosung-6gp4.vercel.app/index2.html
 제가 다니는 한동대학교에 대해 소개하는 위키백과와 위치를 안내하는 구글지도 하이퍼링크를 추가하였습니다
 제가 속한 동아리인 HAC에 대해 소개하는 글과 이미지를 탑재하였습니다
 제 프로필 사진을 파란 하늘로 업데이트 하였습니다
-HTML 문법 상 오류(<img src=”~” arc(->art)=“~” >및 <ul> ~ </ul>안에 <p> ~ </p>를 작성한 오류를 수정하였습니다
+HTML 문법 상 오류(< img src=”~” arc(->alt)=“~” >및 < ul > ~ < /ul >안에 < p > ~ < /p >)를 작성한 오류를 수정하였습니다
 
 ######Problem & Solution
 commit의 수정사항에 오타가 생겼을 경우
